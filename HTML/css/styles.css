@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(248, 220, 224);
+}
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+   
+    border-radius: 50%;
+}
+figcaption{
+    font-size: 25px;
+    text-align: center;
+}
+h3{
+    color: chocolate ;
+}
+
+.para_text{
+    font-size: 20px;
+    font-weight: 400;
+}
